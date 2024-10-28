@@ -1,0 +1,19 @@
+Comments throut this course
+
+create a new API: 
+
+dotnet new webapi -o api 
+
+dotnet watch run
+
+install c# dev kit on VS Code
+
+
+Main files: 
+
+* program.cs 
+It's where the application starts.
+In essence, Program.cs is where the web application’s foundation is se
+
+In this file we also configure services and add new middleware like (routing, authentication, error handling)
+
