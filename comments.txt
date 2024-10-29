@@ -8,6 +8,19 @@ dotnet watch run
 
 install c# dev kit on VS Code
 
+install nuget 
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer --version 8.0.10
+
+dotnet add package Microsoft.EntityFrameworkCore.Tools --version 8.0.10
+
+dotnet add package Microsoft.EntityFrameworkCore.Design --version 8.0.10
+
+
+* run the migrations
+dotnet ef migrations add init //create the files
+
+dotnet ef database update //update the database
+
 
 Main files: 
 
