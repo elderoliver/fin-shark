@@ -30,3 +30,9 @@ In essence, Program.cs is where the web application’s foundation is se
 
 In this file we also configure services and add new middleware like (routing, authentication, error handling)
 
+
+
+
+
+DTO 
+Stands for Data Transfer Object
